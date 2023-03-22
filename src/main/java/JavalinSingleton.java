@@ -17,6 +17,7 @@ public class JavalinSingleton {
      * 
      * Note: Please refer to the "CreatingEndpoints.MD" file for more 
      * assistance if needed.
+     * 
      */
     public static Javalin getInstance(){
         Javalin app = Javalin.create();
